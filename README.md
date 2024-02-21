@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/pag66"><img src="https://api.daily.dev/devcards/v2/wVtKcSA8hKdhZ1qXENTF0.png?r=zrp&type=default" width="356" alt="Paul's Dev Card"/></a>
 - 👋 Hi, I’m @pag6606
 - 👀 I’m interested in development and software architecture
 - 🌱 I’m currently learning react,react native, wso2 middleware, springboot
